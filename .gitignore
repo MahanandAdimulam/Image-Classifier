@@ -162,3 +162,5 @@ cython_debug/
 data/
 happy_people.zip
 sad_people.zip
+test_happy.jpeg
+test_sad.jpeg
